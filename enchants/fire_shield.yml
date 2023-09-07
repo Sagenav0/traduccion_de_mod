@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Fire Shield
+Name: Escudo de fuego
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: rare
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- '%enchantment_trigger_chance%% chance to ignite the attacker for %enchantment_fire_duration%s.'
+- '%enchantment_trigger_chance%% posibilidad de prender fuego al atacante por %enchantment_fire_duration%s.'
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

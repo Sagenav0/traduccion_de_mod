@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Temper
+Name: Temperamento
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: rare
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- Inflicts %enchantment_damage_amount%% (max. %enchantment_damage_capacity%%) more damage for each %enchantment_health_point% hearts missing.
+- Inflige %enchantment_damage_amount%% (max. %enchantment_damage_capacity%%) más daño por cada %enchantment_health_point% corazones faltantes.
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

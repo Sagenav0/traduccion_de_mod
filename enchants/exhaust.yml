@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Exhaust
+Name: Escape
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: common
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- '%enchantment_trigger_chance%% chance to apply %enchantment_potion_type% %enchantment_potion_level% (%enchantment_potion_duration%s.) on hit.'
+- '%enchantment_trigger_chance%% posibilidad de aplicar %enchantment_potion_type% %enchantment_potion_level% (%enchantment_potion_duration%s.) por golpe.'
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

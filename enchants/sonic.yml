@@ -5,7 +5,7 @@ Tier: rare
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- Grants permanent %enchantment_potion_type% %enchantment_potion_level% effect.
+- otorga efecto permanente de %enchantment_potion_type% %enchantment_potion_level%.
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

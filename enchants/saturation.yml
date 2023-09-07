@@ -5,7 +5,7 @@ Tier: rare
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- Restores %enchantment_saturation_amount% food points every %enchantment_saturation_interval%s.
+- Restaura %enchantment_saturation_amount% puntos de comida cada %enchantment_saturation_interval%s.
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

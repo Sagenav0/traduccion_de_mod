@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Lucky Miner
+Name: Fortuna minera
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: common
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- '%enchantment_trigger_chance%% chance to gain %enchantment_exp_modifier%% more exp from ores.'
+- '%enchantment_trigger_chance%% posibilidad de obtener %enchantment_exp_modifier%% más experiencia de minerales.'
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

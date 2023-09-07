@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Replanter
+Name: Granjero
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: rare
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- Automatically replant crops on right click and when harvest.
+- Replantar cultivos automáticamente al hacer clic derecho y al cosechar.
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

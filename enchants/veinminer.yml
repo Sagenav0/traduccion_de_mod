@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Veinminer
+Name: Minero de menas
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: rare
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- Mines up to %enchantment_block_limit% blocks of the ore vein at once.
+- mina hasta un %enchantment_block_limit% bloques de la veta de mineral a la vez.
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

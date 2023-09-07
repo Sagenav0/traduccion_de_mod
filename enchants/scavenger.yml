@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Scavenger
+Name: Carroñero
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: rare
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- '%enchantment_trigger_chance%% chance to obtain additional loot from mobs.'
+- '%enchantment_trigger_chance%% oportunidad de obtener botín adicional de los mobs.'
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.

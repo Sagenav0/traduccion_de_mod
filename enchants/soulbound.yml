@@ -1,11 +1,11 @@
 # Enchantment display name. It will be shown in item lore.
-Name: Soulbound
+Name: Ligado al alma
 # Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
 Tier: legendary
 # Enchantment description. It will be shown in item lore under enchantment name.
 # You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
 Description:
-- Protects from being dropped on death.
+- Evita que se caiga los objetos al morir.
 # Sets whether or not this enchantment will be hidden from Enchants GUI.
 Hide_From_List: false
 # Sets whether this enchantment is a treasure enchantment.
